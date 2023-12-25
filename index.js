@@ -20,6 +20,7 @@
 // =================================================
 
 // 1.) Declare a variable
+const loss = 80%
 
 // 2.) Change the value of this variable
 
